@@ -12,5 +12,10 @@ Skills: REACT / JS / HTML / CSS/ Tailwind
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Obaidullah-ahsan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/obaidullahahsan.567)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/call.me_obaidul/) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidullah-ahsan&label=Profile%20views&color=0e75b6&style=flat" alt="obaidullah-ahsan" /> </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Obaidullah-ahsan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Obaidullah-ahsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Obaidullah-ahsan&show_icons=true)  
 
