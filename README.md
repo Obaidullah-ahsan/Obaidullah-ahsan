@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/5BZmRdD/IMG-5202.jpg)
+![Web Developer](https://i.ibb.co/wspzVrX/IMG-5202.jpg)
 ### Hi there 👋, I'm Obaidullah Ahsan
 #### Web Developer
 
