@@ -1,12 +1,12 @@
 ![Web Developer](https://i.ibb.co/wspzVrX/IMG-5202.jpg)
 ### Hi there 👋, I'm Obaidullah Ahsan
-#### Web Developer
+#### Front-End Developer
 
-Welcome to my corner of the digital world! I'm Obaidullah Ahsan, a junior frontend web developer passionate about crafting engaging and user-friendly digital experiences. With a keen eye for design and a love for clean, efficient code, I'm constantly striving to bring creativity and functionality together in every project I undertake. Whether it's implementing responsive layouts, optimizing performance, or experimenting with the latest frontend technologies, I'm always eager to learn and grow in this ever-evolving field. My GitHub repository is a reflection of my journey as a developer, showcasing my projects, experiments, and contributions to the developer community. Join me as I continue to explore the exciting realms of web development, one line of code at a time. Let's build something amazing together!
+Hello, I am Md. Obaidullah , a passionate Front-End Web Developer with expertise in HTML, CSS, Tailwind CSS, JavaScript, React.js, Node.js, MongoDB. I focus on creating user-friendly and responsive applications. I am experienced in building user-friendly web applications. Detail-oriented and committed to writing clean and maintainable code, I possess problem-solving and analytical skills to tackle challenges effectively.
 
-Skills: REACT / JS / HTML / CSS/ Tailwind
+Skills: MongoDB/ExpressJS/NodeJS/ReactJS/JavaScript(ES6)/TailwindCSS/CSS3/HTML5
 
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning MongoDB
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidullah-ahsan&label=Profile%20views&color=0e75b6&style=flat" alt="obaidullah-ahsan" /> </p>
@@ -43,10 +43,5 @@ Skills: REACT / JS / HTML / CSS/ Tailwind
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Obaidullah-ahsan/Obaidullah-ahsan/output/snake.svg" alt="Snake animation" />
-
-###
 
 
