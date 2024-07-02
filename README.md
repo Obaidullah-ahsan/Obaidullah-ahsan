@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/wspzVrX/IMG-5202.jpg)
+![Web Developer](https://i.ibb.co/2ZCQgDt/White-Blue-Professional-Website-Developer-Linked-In-Banner-20240702-190554-0000-4.png )
 ### Hi there 👋, I'm Md. Obaidullah
 #### Front-End Developer
 
