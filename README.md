@@ -6,7 +6,7 @@ Hello, I am Md. Obaidullah , a passionate Front-End Web Developer with expertise
 
 Skills: MongoDB/ExpressJS/NodeJS/ReactJS/JavaScript(ES6)/TailwindCSS/CSS3/HTML5
 
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning Next.js and Typescript
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidullah-ahsan&label=Profile%20views&color=0e75b6&style=flat" alt="obaidullah-ahsan" /> </p>
